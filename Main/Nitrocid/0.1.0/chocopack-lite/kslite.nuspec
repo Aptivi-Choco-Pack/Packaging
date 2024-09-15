@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>kslite</id>
-    <version>0.1.0.26</version>
+    <version>0.1.0.27</version>
     <packageSourceUrl>http://github.com/Aptivi/NitrocidKS</packageSourceUrl>
 
     <title>Nitrocid KS - Lite</title>
@@ -19,7 +19,7 @@
     <releaseNotes>https://aptivi.gitbook.io/kernel-simulator-manual/versions-and-compatibility/version-release-notes/v0.1.x.x-series</releaseNotes>
 
     <dependencies>
-      <dependency id="dotnet-8.0-runtime" version="8.0.0"/>
+      <dependency id="dotnet-8.0-runtime"/>
     </dependencies>
   </metadata>
   <files>
