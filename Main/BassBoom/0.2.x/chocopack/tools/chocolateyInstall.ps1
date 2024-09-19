@@ -1,8 +1,8 @@
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $pkgName    = "KS"
-$url        = "https://github.com/Aptivi/BassBoom/releases/download/v0.2.0.1/0.2.0.1-cli.zip"
-$shacheck   = "0f02f7bab2830dda166bb81d8e9f787effb14103c307df5ef107c9acdb9d1bf1"
+$url        = "https://github.com/Aptivi/BassBoom/releases/download/v0.2.1/0.2.1-cli.zip"
+$shacheck   = "ab6710e249d15db863898112aeb9f5b4aaa76c30cff25a5ded195f9801cbc206"
 
 Write-Output "<*>: for assumptions, <+> for progress, <-> for error"
 Write-Output "<*> Installation directory: $toolsDir"
