@@ -4,22 +4,26 @@
   <metadata>
     <id>KS</id>
     <version>0.0.24.40</version>
-    <packageSourceUrl>http://github.com/Aptivi/NitrocidKS</packageSourceUrl>
+    <packageSourceUrl>https://github.com/Aptivi-Choco-Pack/Packaging/tree/main/Main/Nitrocid/0.0.24/ChocolateyPack</packageSourceUrl>
+    <projectSourceUrl>https://github.com/Aptivi/NitrocidKS</projectSourceUrl>
 
     <title>Kernel Simulator</title>
     <authors>Aptivi</authors>
-    <projectUrl>http://github.com/Aptivi/NitrocidKS</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/Aptivi/NitrocidKS/5efe4e48acea326f21af56ecfd9cd1c1f9bc2056/Kernel%20Simulator/OfficialAppIcon-KernelSimulator-256.ico</iconUrl>
+    <owners>EoflaOE</owners>
+    <projectUrl>https://github.com/Aptivi/NitrocidKS</projectUrl>
+    <docsUrl>https://aptivi.gitbook.io/nitrocid-ks-manual/</docsUrl>
+    <bugTrackerUrl>https://github.com/Aptivi/NitrocidKS/issues</bugTrackerUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/Aptivi/NitrocidKS@latest/public/Nitrocid/OfficialAppIcon-KernelSimulator-512.png</iconUrl>
     <copyright>Copyright © 2018-2022 Aptivi, All rights reserved.</copyright>
-    <licenseUrl>https://github.com/Aptivi/NitrocidKS/blob/master/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/Aptivi/NitrocidKS/blob/main/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <tags>ks kernel simulator vb.net</tags>
     <summary>Simulates our future-planned kernel</summary>
     <description>Kernel Simulator is the program that lets you simulate our early aspects of the kernel that will be made in the future. For more information, please go to the project URL.</description>
-    <releaseNotes>https://github.com/Aptivi/NitrocidKS/wiki/Release-Notes-for-Second-Generation-KS</releaseNotes>
+    <releaseNotes>https://aptivi.gitbook.io/nitrocid-ks-manual/versions-and-compatibility/version-release-notes/v0.0.24.x-series</releaseNotes>
 
     <dependencies>
-      <dependency id="dotnetfx"/>
+      <dependency id="dotnetfx" version="4.8.0.20220524" />
     </dependencies>
   </metadata>
   <files>

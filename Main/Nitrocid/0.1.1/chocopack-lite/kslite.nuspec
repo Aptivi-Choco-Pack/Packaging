@@ -4,22 +4,26 @@
   <metadata>
     <id>kslite</id>
     <version>0.1.1.21</version>
-    <packageSourceUrl>http://github.com/Aptivi/NitrocidKS</packageSourceUrl>
+    <packageSourceUrl>https://github.com/Aptivi-Choco-Pack/Packaging/tree/main/Main/Nitrocid/0.1.1/chocopack-lite</packageSourceUrl>
+    <projectSourceUrl>https://github.com/Aptivi/NitrocidKS</projectSourceUrl>
 
     <title>Nitrocid KS - Lite</title>
     <authors>Aptivi</authors>
-    <projectUrl>http://github.com/Aptivi/NitrocidKS</projectUrl>
-    <iconUrl>https://cdn.jsdelivr.net/gh/Aptivi/NitrocidKS@latest/public/Nitrocid/OfficialAppIcon-KernelSimulator.ico</iconUrl>
-    <copyright>Copyright © 2018-2024 Aptivi, All rights reserved.</copyright>
+    <owners>EoflaOE</owners>
+    <projectUrl>https://github.com/Aptivi/NitrocidKS</projectUrl>
+    <docsUrl>https://aptivi.gitbook.io/nitrocid-ks-manual/</docsUrl>
+    <bugTrackerUrl>https://github.com/Aptivi/NitrocidKS/issues</bugTrackerUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/Aptivi/NitrocidKS@latest/public/Nitrocid/OfficialAppIcon-KernelSimulator-512.png</iconUrl>
+    <copyright>Copyright © 2018-2022 Aptivi, All rights reserved.</copyright>
     <licenseUrl>https://github.com/Aptivi/NitrocidKS/blob/main/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <tags>ks kernel simulator vb.net</tags>
     <summary>Simulates our future-planned kernel, Nitrocid Kernel!</summary>
-    <description>Nitrocid KS is the program that lets you simulate the early aspects of our future-planned kernel, Nitrocid Kernel! This is the lite version without the addons.</description>
-    <releaseNotes>https://aptivi.gitbook.io/kernel-simulator-manual/versions-and-compatibility/version-release-notes/v0.1.x.x-series</releaseNotes>
+    <description>Nitrocid KS is the program that lets you simulate early aspects of our future-planned kernel, Nitrocid Kernel! This is a lite version of Nitrocid KS without any extra addons.</description>
+    <releaseNotes>https://aptivi.gitbook.io/nitrocid-ks-manual/versions-and-compatibility/version-release-notes/v0.1.x.x-series</releaseNotes>
 
     <dependencies>
-      <dependency id="dotnet-8.0-runtime"/>
+      <dependency id="dotnet-8.0-runtime" version="8.0.8"/>
     </dependencies>
   </metadata>
   <files>
