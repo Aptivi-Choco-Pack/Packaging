@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>KS</id>
-    <version>0.0.24.40</version>
+    <version>0.0.24.41</version>
     <packageSourceUrl>https://github.com/Aptivi-Choco-Pack/Packaging/tree/main/Main/Nitrocid/0.0.24/ChocolateyPack</packageSourceUrl>
     <projectSourceUrl>https://github.com/Aptivi/NitrocidKS</projectSourceUrl>
 
