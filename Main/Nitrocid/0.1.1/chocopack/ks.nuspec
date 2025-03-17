@@ -5,7 +5,7 @@
     <id>KS</id>
     <version>0.1.1.32</version>
     <packageSourceUrl>https://github.com/Aptivi-Choco-Pack/Packaging/tree/main/Main/Nitrocid/0.1.1/chocopack</packageSourceUrl>
-    <packageSourceUrl>http://github.com/Aptivi/Nitrocid</packageSourceUrl>
+    <projectSourceUrl>http://github.com/Aptivi/Nitrocid</projectSourceUrl>
 
     <title>Nitrocid KS</title>
     <authors>Aptivi</authors>
