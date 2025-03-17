@@ -3,8 +3,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>bassboom</id>
-    <version>0.2.7</version>
-    <packageSourceUrl>https://github.com/Aptivi-Choco-Pack/Packaging/tree/main/Main/BassBoom/0.2.x/chocopack</packageSourceUrl>
+    <version>0.1.12</version>
+    <packageSourceUrl>https://github.com/Aptivi-Choco-Pack/Packaging/tree/main/Main/BassBoom/0.1.x/chocopack</packageSourceUrl>
     <projectSourceUrl>https://github.com/Aptivi/BassBoom</projectSourceUrl>
 
     <title>BassBoom</title>
@@ -20,7 +20,7 @@
     <tags>csharp music player bassboom bass sound audio mp3 mpeg</tags>
     <summary>Cross-platform music player written in C#</summary>
     <description>BassBoom is a music player and library hybrid that allows you to play MP3 music files and online MPEG radio stations.</description>
-    <releaseNotes>https://aptivi.gitbook.io/bassboom-manual/versions/version-release-notes/api-v1.1-series</releaseNotes>
+    <releaseNotes>https://aptivi.gitbook.io/bassboom-manual/versions/version-release-notes/api-v1.0-series</releaseNotes>
 
     <dependencies>
       <dependency id="dotnet-8.0-runtime" version="8.0.14"/>
