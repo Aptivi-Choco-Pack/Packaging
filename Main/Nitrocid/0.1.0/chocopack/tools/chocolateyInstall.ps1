@@ -1,8 +1,8 @@
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $pkgName    = "KS"
-$url        = "https://github.com/Aptivi/Nitrocid/releases/download/v0.1.0.54/0.1.0.54-bin.zip"
-$shacheck   = "35D929D1976D9848C507F074889C3ACEF1A2B5E2C2B7CF77D936E2D7B0B6621C"
+$url        = "https://github.com/Aptivi/Nitrocid/releases/download/v0.1.0.55/0.1.0.55-bin.zip"
+$shacheck   = "2b4c52586421fabd788764629d9b34a35c912e36b37884b12bb04802cf92e5e2"
 
 Write-Output "<*>: for assumptions, <+> for progress, <-> for error"
 Write-Output "<*> Installation directory: $toolsDir"
