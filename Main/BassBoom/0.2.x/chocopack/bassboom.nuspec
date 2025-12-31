@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>bassboom</id>
-    <version>0.2.12.1</version>
+    <version>0.2.13.2</version>
     <packageSourceUrl>https://github.com/Aptivi-Choco-Pack/Packaging/tree/main/Main/BassBoom/0.2.x/chocopack</packageSourceUrl>
     <projectSourceUrl>https://github.com/Aptivi/BassBoom</projectSourceUrl>
 
@@ -23,7 +23,7 @@
     <releaseNotes>https://aptivi.gitbook.io/bassboom-manual/versions/version-release-notes/api-v1.1-series</releaseNotes>
 
     <dependencies>
-      <dependency id="dotnet-8.0-runtime" version="8.0.14"/>
+      <dependency id="dotnet-10.0-runtime" version="10.0.1"/>
     </dependencies>
   </metadata>
   <files>
