@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>kslite</id>
-    <version>0.1.0.66</version>
+    <version>0.1.0.66-errata</version>
     <packageSourceUrl>https://github.com/Aptivi-Choco-Pack/Packaging/tree/main/Main/Nitrocid/0.1.0/chocopack-lite</packageSourceUrl>
     <projectSourceUrl>http://github.com/Aptivi/Nitrocid</projectSourceUrl>
 
@@ -23,7 +23,7 @@
     <releaseNotes>https://aptivi.gitbook.io/aptivi/nitrocid-ks-manual/versions-and-compatibility/version-release-notes/v0.1.x.x-series</releaseNotes>
 
     <dependencies>
-      <dependency id="dotnet-8.0-runtime" version="8.0.14"/>
+      <dependency id="dotnet-10.0-runtime" version="10.0.1"/>
     </dependencies>
   </metadata>
   <files>
