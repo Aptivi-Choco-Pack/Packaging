@@ -3,8 +3,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>KS</id>
-    <version>0.1.2.32-errata</version>
-    <packageSourceUrl>https://github.com/Aptivi-Choco-Pack/Packaging/tree/main/Main/Nitrocid/0.1.2/chocopack</packageSourceUrl>
+    <version>0.1.2.33</version>
+    <packageSourceUrl>https://github.com/Aptivi-Choco-Pack/Packaging/tree/main/Main/Nitrocid/archives/0.1.2/chocopack</packageSourceUrl>
     <projectSourceUrl>http://github.com/Aptivi/Nitrocid</projectSourceUrl>
 
     <title>Nitrocid KS</title>
@@ -20,7 +20,7 @@
     <tags>ks kernel simulator vb.net</tags>
     <summary>Simulates our future-planned kernel, Nitrocid Kernel!</summary>
     <description>Nitrocid KS is the program that lets you simulate the early aspects of our future-planned kernel, Nitrocid Kernel!</description>
-    <releaseNotes>https://aptivi.gitbook.io/aptivi/nitrocid-ks-manual/versions-and-compatibility/version-release-notes/v0.1.x.x-series-1</releaseNotes>
+    <releaseNotes>https://aptivi.gitbook.io/aptivi/nitrocid-ks-manual/versions-and-compatibility/version-release-notes/v0.1.2.x-series</releaseNotes>
 
     <dependencies>
       <dependency id="dotnet-10.0-runtime" version="10.0.1"/>
